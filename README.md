@@ -1,1 +1,1 @@
-# frontend-memory-game
+# frontend-arcade-game
